@@ -1,0 +1,9 @@
+.env
+*.swp
+*.swo
+/mvnw
+/mvnw.cmd
+*.class
+/target/
+/.idea/
+/*.iml
